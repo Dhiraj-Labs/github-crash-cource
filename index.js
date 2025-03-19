@@ -6,6 +6,6 @@ function isAbove18(){
     return age>= 18
 }
 
-function isAbove60(){
-   return age=> 60
-}
+#function isAbove60(){
+ #  return age=>60
+#}
