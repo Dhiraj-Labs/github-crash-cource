@@ -12,3 +12,7 @@ function isAbove18(){
 const dob = '24-apr-1990'
 
 const age = 30; 
+
+function new branch created (){
+    return = 0
+}
