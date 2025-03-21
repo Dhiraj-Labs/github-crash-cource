@@ -16,3 +16,9 @@ const age = 30;
 function new branch created (){
     return = 0
 }
+
+function new branch created "Test"()
+{
+    echo -n "New branch ceated- local -> remote "
+    return = 0
+}
